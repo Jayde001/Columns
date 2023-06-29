@@ -1,0 +1,48 @@
+header {
+    background-color: #588C94 ;
+    text-align: center;
+    padding: 30px;
+    color: wheat;
+}
+
+body {
+    background-color: whitesmoke;
+    margin: 0px;
+    font-size: 21px;
+}
+
+.intro {
+    width: 600px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+
+.my-flaws {
+    background-color:  #1D3C41;
+    color: wheat;
+    padding: 75px 0px;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    border: 3px solid #1D3C41;
+    margin: 10px;
+}
+/* Fonts */
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
